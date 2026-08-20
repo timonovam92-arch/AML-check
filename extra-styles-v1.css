@@ -1,0 +1,21 @@
+.text-green {
+    color: #2E7D32;
+    font-weight: 500;
+}
+
+.text-red {
+    color: #C62828;
+    font-weight: 500;
+}
+
+.text-orange {
+    color: #E65100;
+    font-weight: 500;
+}
+
+.text-underline {
+    text-decoration: underline;
+    text-underline-offset: 0.2em; /* небольшой отступ от текста, красиво */
+    text-decoration-color: #E65100; /* цвет подчёркивания — можно поменять */
+    text-decoration-thickness: 2px; /* толщина линии */
+}
