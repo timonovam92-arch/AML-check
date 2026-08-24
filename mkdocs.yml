@@ -1,0 +1,43 @@
+site_name: Гайд по проверке AML
+site_description: Инструкция, которая поможет отследить происхождение средств и избежать блокировок до отправки транзакции
+theme:
+  name: material
+  language: ru
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+nav:
+  - Главная: index.md
+  - AML-check:
+    - Интерпретация результатов проверки: risk-interpretation.md
+    - Уровни результатов проверки: risk-levels.md
+  - Сервис уведомлений:
+    - О проекте: notification-service/index.md
+    - Отправка email: notification-service/send-email-endpoint.md
+    - Схема процесса: notification-service/notification-flow.md
+markdown_extensions:
+  - admonition
+  - tables
+  - fenced_code
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+extra_css:
+  - extra-styles-v1.css
