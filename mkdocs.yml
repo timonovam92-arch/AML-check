@@ -27,6 +27,9 @@ nav:
     - О проекте: notification-service/index.md
     - Отправка email: notification-service/send-email-endpoint.md
     - Схема процесса: notification-service/notification-flow.md
+  - База знаний для службы поддержки: 
+    - Быстрое решение: support-kb/index.md
+    - Схема процесса: support-kb/incident-flow.md
 markdown_extensions:
   - admonition
   - tables
