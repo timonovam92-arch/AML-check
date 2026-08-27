@@ -26,6 +26,7 @@ nav:
   - Сервис уведомлений:
     - О проекте: notification-service/index.md
     - Отправка email: notification-service/send-email-endpoint.md
+    - Проверка статуса: notification-service/get-status-endpoint.md
     - Схема процесса: notification-service/notification-flow.md
   - База знаний для службы поддержки: 
     - Быстрое решение: support-kb/index.md
