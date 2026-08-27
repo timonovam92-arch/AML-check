@@ -38,5 +38,5 @@
 ---
 
 ## Контакты
-
+Исходный код документации на GitHub: https://github.com/timonovam92-arch/AML-check
 По вопросам доработки документации: timonovam92@gmail.com
