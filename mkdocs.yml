@@ -31,6 +31,10 @@ nav:
   - База знаний для службы поддержки: 
     - Быстрое решение: support-kb/index.md
     - Схема процесса: support-kb/incident-flow.md
+  - Стайлгайд:
+    - Введение: style-guide/index.md
+    - Оформление текста: style-guide/text-format.md
+    - Язык и термины: style-guide/language-terms.md
 markdown_extensions:
   - admonition
   - tables
