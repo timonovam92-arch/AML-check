@@ -20,7 +20,8 @@ theme:
     - toc.integrate
 nav:
   - Главная: index.md
-  - AML-check:
+  - Проверка AML:
+    - AML-check: aml-check.md
     - Интерпретация результатов проверки: risk-interpretation.md
     - Уровни результатов проверки: risk-levels.md
   - Сервис уведомлений:
