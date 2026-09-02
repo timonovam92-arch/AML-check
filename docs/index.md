@@ -36,5 +36,5 @@
 | 1.4 | 02.09.2026 | Переименовано портфолио, убраны неточности, добавлены разделы "AML-check" и "Обо мне". |
 
 ## Контакты
-Исходный код документации на GitHub: https://github.com/timonovam92-arch/AML-check <br>
+Исходный код документации на GitHub: https://timonovam92-arch.github.io/tech-writer-portfolio/ <br>
 По вопросам доработки документации: timonovam92@gmail.com
