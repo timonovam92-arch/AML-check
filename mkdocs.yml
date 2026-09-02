@@ -1,4 +1,4 @@
-site_name: Гайд по проверке AML
+site_name: Портфолио технического писателя
 site_description: Инструкция, которая поможет отследить происхождение средств и избежать блокировок до отправки транзакции
 theme:
   name: material
@@ -20,6 +20,7 @@ theme:
     - toc.integrate
 nav:
   - Главная: index.md
+  - Обо мне: about.md
   - Проверка AML:
     - AML-check: aml-check.md
     - Интерпретация результатов проверки: risk-interpretation.md
